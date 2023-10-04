@@ -4,7 +4,9 @@
 name = input("What's your name ? ")
 
 # Say hello to user
-print("Hello, " + name)
+print("Hello, " + name + name, name)
+# print("Hello,",name)
+
 
 """
 This is a multiline comment
