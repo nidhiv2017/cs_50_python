@@ -4,8 +4,8 @@
 name = input("What's your name ? ")
 
 # Say hello to user
-print("Hello,")
-print(name)
+print("Hello, " + name)
+
 """
 This is a multiline comment
 potatoes and tomatoes
