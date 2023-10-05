@@ -5,11 +5,23 @@ name = input("What's your name ? ")
 
 # Say hello to user
 # print("Hello, " + name + name, name)
-# print("Hello,",name)
+print("Hello,",name)
 
 # print("Hello,", end=" ")
 # print(name)
-print("Hello,",name, sep= " balls ")
+# print("Hello,",name, sep= " balls ")
+# positional parameter sep and end
+# named parameter sep and end
+# print("hello, "friend"")
+print('hello, "friend"')
+print('hello, \"friend\"')
+# backslash is an escape character
+print("hello, \"friend\"")
+# -----------------------------------
+
+print(f"hello, {name}")
+
+
 
 
 
