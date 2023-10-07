@@ -6,3 +6,8 @@
 <!-- day 3: print; / forward slash -->
 <!-- day 3: print; special string, eg: f -->
 day 4:
+# hello.py
+# str.py
+# int.py
+# interactive terminal REPL
+# calculator.py
